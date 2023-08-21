@@ -1,0 +1,23 @@
+1.Xây dựng các loại đối tượng sách giáo khoa, tiểu thuyết, tạp chí. Viết chương trình cho phép quản 
+lý một danh sách các loại đối tượng kể trên.
+Mỗi loại trên đều có thông tin chung như sau Tên, Nhà xuất bản, Năm xuất bản, Số trang, Giá bán.
+Đối với SGK có thêm thông tin về khối lớp; đối với tiểu thuyết có thêm thông tin về thể loại (giả 
+tưởng, hình sự, kinh dị,…); đối với tạp chí có thêm thông tin về về dạng tạp chí theo định kỳ xuất 
+bản (tuần san, nguyệt san, quý san,…)
+
+2. Xây dựng lớp DaGiac thể hiện khái niệm đa giác với các thao tác cần thiết (nhập, xuất, tịnh tiến).
+Dùng kế thừa xây dựng các lớp tứ giác, tam giác. Viết chương trình cho phép nhập vào một tam giác 
+hoặc tứ giác. Xuất và thực hiện các thao tác tịnh tiến hình đã nhập.
+
+3. Thêm vào bài 2 các hình hình bình hành, hình chữ nhật và hình vuông. Định nghĩa lại các thao tác 
+ở lớp con nếu cần. Xuất và thực hiện thao tác tịnh tiến hình đã nhập.
+
+4. Viết chương trình cho phép nhập vào một trong các hình (tam giác, tứ giác, hình bình hành, hình 
+chữ nhật, hình vuông) kể trên, xuất và thực hiện phép tịnh tiến cho các hình đã nhập.
+
+5. Viết chương trình tính diện tích và chu vi các hình Hình chữ nhật biết hai cạnh, hình tam giác 
+biết ba cạnh, hình tròn biết bán kính. Chương trình có giao diện như sau 1. Nhập kích thước các 
+hình; 2. Hiện thị diện tích và chu vi các hình đã nhập; 3. Kết thúc chương trình.Lựa chọn công 
+việc (1, 2, 3)Khi người sử dụng chọn 1 thì hỏi người sử dụng nhập kích thước cho hình nào, nhập 
+xong hỏi người sử dụng có nhập tiếp không. Yêu cầu trong chương trình có cài đặt sự đa hình liên 
+kết động.

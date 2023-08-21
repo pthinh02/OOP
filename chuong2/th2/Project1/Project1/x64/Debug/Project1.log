@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(121,46): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(121,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(131,42): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(131,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(133,40): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Codelearn\OOP\chuong2\th2\Project1\Project1\Source.cpp(133,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project1.vcxproj -> D:\Codelearn\OOP\chuong2\th2\Project1\x64\Debug\Project1.exe

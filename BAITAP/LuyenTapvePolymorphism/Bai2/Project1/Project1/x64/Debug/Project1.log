@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Bai2\Project1\Project1\Source.cpp(21,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Bai2\Project1\Project1\Source.cpp(22,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Bai2\Project1\x64\Debug\Project1.exe

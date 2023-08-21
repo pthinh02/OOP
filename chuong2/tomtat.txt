@@ -1,0 +1,21 @@
+Class
+_Thuoc tinh(Properties);
+_Phuong thuc(Methods);
+
+Class: Bổ ngữ truy cập(Public/Private)
+_Private có thể được truy cập từ các hàm bên trong Class.
+
+Struct != Class: Struct có thể mặc định truy cập từ bên ngoài
+
+Có thể Objects trong Objects; Struct trong Objects ; ...
+
+Nạp chồng Hàm( có thể có cùng tên, nhưng khác Tham số truyền vào)
+
+Nếu trong cùng Class: Có thể truy cập trực tiếp TẤT CẢ các biến(kể cả trong Private) 
+mà không cần thông qua tên class
+
+HÀM KHỞI TẠO:		CLASS()
+HÀM HUỶ:		~CLASS()
+
+Đối với CẤP PHÁT ĐỘNG: phải sử dụng hàm Deleted để thu hồi vùng nhớ.
+Đối với CẤP PHÁT TĨNH: Tự động thu hồi vùng nhớ khi kết thúc Phạm vi của HÀM (Scope).

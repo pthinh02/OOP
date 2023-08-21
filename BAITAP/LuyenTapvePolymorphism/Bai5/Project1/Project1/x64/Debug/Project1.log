@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Bai5\Project1\Project1\Source.cpp(50,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Bai5\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,14 @@
+Singleton:
+
+class VehicleManager
+{
+public: 
+	void addVehicle(Vehicle* vehicle)
+	{
+		vehicles.pushback(vehicle);
+	}
+	static 
+private:
+	vector<Vehicle*> vehicles;
+
+	static Vehicle* manager;

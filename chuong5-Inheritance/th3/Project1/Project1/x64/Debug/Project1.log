@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Codelearn\OOP\chuong5-Inheritance\th3\Project1\Project1\Source.cpp(17,2): warning C4091: 'typedef ': ignored on left of 'dayTour' when no variable is declared
+  Project1.vcxproj -> D:\Codelearn\OOP\chuong5-Inheritance\th3\Project1\x64\Debug\Project1.exe

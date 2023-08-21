@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Project1\Project1\Source.cpp(11,2): warning C4091: 'typedef ': ignored on left of 'birthday' when no variable is declared
+D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Project1\Project1\Source.cpp(62,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Codelearn\OOP\BAITAP\LuyenTap ve Inheritance\Project1\x64\Debug\Bai1.exe
